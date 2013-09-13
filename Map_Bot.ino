@@ -12,9 +12,9 @@ Servo headServo;
 Servo neckServo;
 
 #define headServoCenter 0
-#define neckServoCenter 86
-#define neckServoLeft 116
-#define neckServoRight 56
+#define neckServoCenter 90
+#define neckServoLeft 120
+#define neckServoRight 60
 
 #define mindist 20
 
